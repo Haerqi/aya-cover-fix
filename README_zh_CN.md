@@ -1,5 +1,7 @@
 # AYANEO Space 封面修复工具
 
+[English](README.md)
+
 **自动补全 AYANEO Space 中本地游戏缺失的封面图。**
 
 AYANEO Space 只会自动获取 Steam 游戏的封面。如果你添加了本地/非 Steam 游戏（例如破解游戏、独立可执行文件），它们会显示为无封面状态。本工具通过搜索 Steam Store API 查找匹配的游戏，并将封面图片 URL 直接写入 AYANEO Space 的数据库，从而修复此问题。

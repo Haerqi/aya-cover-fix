@@ -1,5 +1,7 @@
 # AYANEO Space Cover Art Fix Tool
 
+[中文文档](README_zh_CN.md)
+
 **Automatically fill in missing cover art for local games in AYANEO Space.**
 
 AYANEO Space only auto-fetches cover images for Steam games. If you add local/non-Steam games (e.g., pirated games, standalone executables), they show up without cover art. This tool fixes that by searching the Steam Store API for matching games and writing the cover image URLs directly into AYANEO Space's database.
